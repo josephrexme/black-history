@@ -4,7 +4,7 @@
 
 A video worth watching
 
-![Video](https://youtu.be/Cgmri7VBzpA)
+[![Tell Them We Are Rising](https://cdn.jsdelivr.net/gh/josephrexme/black-history/resources/rising.jpeg)](https://youtu.be/Cgmri7VBzpA)
 
 ### Booker T. Washington
 
